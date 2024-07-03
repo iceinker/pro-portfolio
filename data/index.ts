@@ -96,7 +96,7 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Course sharing mobile app",
+    title: "Course sharing React-native app",
     des: "here is a react native mobile app utilizing expo, appwrite and nativewind. (Still in development)",
     img: "/Gorgo.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
