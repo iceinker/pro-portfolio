@@ -90,9 +90,9 @@ export const projects = [
     id: 3,
     title: "Aalternative portfolio",
     des: "an Aalternative look at a more minimalistic and to the point portfolio",
-    img: "/AltPortfolio.png",
+    img: "/sps.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "https://mohamed-portfolio-web-app.netlify.app/",
+    link: "https://startup-pitching-site.vercel.app/",
   },
   {
     id: 4,
@@ -108,7 +108,7 @@ export const Experience = [
   {
     quote:
       "Developed multiple responsive web applications in React.js, HTML, CSS, and typeScript, ensuring high-performance, user-friendly interfaces; collaborated with clients for custom solutions, implemented best practices for responsive design, cross-browser compatibility, and SEO, utilizing GitHub for version control, and conducted rigorous testing and debugging for optimal functionality and compatibility.",
-    name: "Front End Developer",
+    name: "Full-Stack Developer",
     title: "Freelance",
   },
   {
