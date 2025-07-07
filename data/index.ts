@@ -171,6 +171,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    href:"https://www.linkedin.com/in/mohamed-al-taher-7396b0299/"
+    href:"http://linkedin.com/in/mohamed-al-taher"
   },
 ];
